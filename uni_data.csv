@@ -35,7 +35,7 @@ Rank,Full_Name,Nickname,App_Type,Early_Rate,RD_Rate,Best_Major,Avg_Class_Rank,GP
 34,University of Wisconsin-Madison,WISC,EA,36.0%,49.0%,Economics,Top 18%,4.05,3.87,1400-1530,30-34,https://apply.wisc.edu/apply,Yes,Test Optional
 35,Ohio State University,OSU,EA,24.1%,53.0%,Engineering,Top 20%,4.0,3.85,1400-1530,30-34,https://admissions.osu.edu/apply,Yes,Test Optional
 36,Penn State University,Penn State,EA,22.4%,54.0%,Business,Top 17%,4.05,3.87,1350-1500,28-33,https://admissions.psu.edu/apply,Yes,Test Optional
-37,University of Illinois-Urbana-Champaign,UIUC,EA,20.1%,45.0%",Computer Science,Top 12%,4.15,3.9,1450-1555,32-35,https://apply.illinois.edu/portal/apply,Yes,Test Optional
+37,University of Illinois-Urbana-Champaign,UIUC,EA,20.1%,45.0%,Computer Science,Top 12%,4.15,3.9,1450-1555,32-35,https://apply.illinois.edu/portal/apply,Yes,Test Optional
 38,Georgia Tech,Georgia Tech,EA,17.6%,21.0%,Engineering,Top 10%,4.16,3.93,1450-1560,33-35,https://admission.gatech.edu/apply,Yes,Test Optional
 39,University of Texas at Austin,UT Austin,ApplyTexas,31.7%,31.2%,Business,Top 8%,4.12,3.9,1350-1530,30-34,https://apply.utexas.edu/apply,Yes,Test Optional
 40,University of California (Santa Cruz),UC Santa Cruz,None (RD Only),52.3%,37.2%,Computer Science,Top 20%,4.05,3.82,1250-1480,26-32,https://apply.universityofcalifornia.edu,Yes,Test Blind
@@ -80,7 +80,7 @@ Rank,Full_Name,Nickname,App_Type,Early_Rate,RD_Rate,Best_Major,Avg_Class_Rank,GP
 79,Clemson University,Clemson,Direct,40.2%,62.0%,Engineering,Top 20%,4.1,3.88,1400-1520,30-34,https://www.clemson.edu/admissions,Yes,Test Optional
 80,Louisiana State University,LSU,Direct,72.0%,76.0%,Business,Top 35%,3.9,3.75,1150-1380,24-30,https://www.lsu.edu/admissions,Yes,Test Optional
 81,University of Alabama,UA,Direct,53.0%,79.0%,Culinary,Top 30%,3.9,3.78,1150-1400,24-30,https://www.ua.edu/admissions,Yes,Test Optional
-82,Marquette University,Marquette,ED,24.8%,8.3%,Nursing,Top 25%,4.0,3.88,1350-1500,28-33,https://www.marquette.edu/admissions,Apply,Yes,Test Optional
+82,Marquette University,Marquette,ED,24.8%,8.3%,Nursing,Top 25%,4.0,3.88,1350-1500,28-33,https://www.marquette.edu/admissions,Apply,Test Optional
 83,University of Arkansas,UARK,Direct,78.0%,84.0%,Engineering,Top 40%,3.85,3.72,1100-1350,23-29,https://admissions.uark.edu/apply,Yes,Test Optional
 84,Mississippi State University,Mississippi State,Direct,63.0%,90.0%,Engineering,Top 40%,3.8,3.7,1050-1300,22-28,https://www.msstate.edu/admissions,Yes,Test Optional
 85,Oklahoma State University,Oklahoma State,Direct,69.2%,70.0%,Agriculture,Top 35%,3.85,3.75,1100-1350,23-29,https://admissions.okstate.edu,Yes,Test Optional
