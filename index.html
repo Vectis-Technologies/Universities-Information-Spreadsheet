@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Universities Information Database</title>
+<link rel="icon" href="Universities Information.png" type="image/png">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background: #000;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* 50px spare room on sides for ads */
+.container {
+    max-width: calc(100% - 100px);
+    width: 100%;
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+/* Centered title */
+.title {
+    font-size: 70px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Local image below title */
+.theimage {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    border: 2px solid #fff;
+}
+
+/* Caption below title */
+.caption {
+    font-size: 30px;
+    text-align: center;
+    color: #ffee00;
+    margin-bottom: 50px;
+}
+
+/* Button to the database (actual) */
+.database-button {
+    background: #fff;
+    color: #ff0000;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px 50px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+
+.database-button:hover {
+    background: #ddd;
+    transform: scale(1.05);
+}
+
+/* Ad space placeholders */
+.ad-space {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 235px;
+    background: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #444;
+    font-size: 12px;
+}
+
+.ad-left { left: 0; }
+.ad-right { right: 0; }
+</style>
+</head>
+<body>
+
+<!-- Ad spaces on sides -->
+<div class="ad-space ad-left">AD SPACE</div>
+<div class="ad-space ad-right">AD SPACE</div>
+
+<!-- Main content -->
+<div class="container">
+    <h1 class="title">Universities Information Database</h1>
+    <img src="Universities Information.png" alt="Universities_Information.png" class="theimage">
+    <p class="caption">For Students, By Students</p>
+    <a href="dashboard.html" class="database-button">Open the Database</a>
+</div>
+
+</body>
+</html>

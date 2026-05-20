@@ -1,0 +1,101 @@
+Rank,Full_Name,Nickname,App_Type,Early_Rate,RD_Rate,Best_Major,Avg_Class_Rank,GPA_Weighted,GPA_Unweighted,SAT_Middle50,ACT_Middle50,Admissions_Portal,Double_Major,Test_Optional
+1,Princeton University,Princeton,SCEA + SCEB,14.4%,4.5%,Computer Science,Top 1%,4.19,3.95,1500-1580,34-35,https://apply.princeton.edu/portal/apply,Yes,Test Optional
+2,Massachusetts Institute of Technology,MIT,EA,4.8%,3.9%,Computer Science,Top 1%,4.19,4.0,1520-1580,35-36,https://apply.mitadmissions.org/apply,Yes,Test Optional
+3,Harvard University,Harvard,REA,7.6%,3.4%,Economics,Top 1%,4.18,3.95,1490-1580,34-36,https://college.harvard.edu/admissions/apply,Yes,Test Optional
+4,Stanford University,Stanford,REA,9.2%,3.7%,Computer Science,Top 1%,4.0,3.96,1500-1570,33-35,https://apply.stanford.edu/apply,Yes,Test Optional
+5,Yale University,Yale,SCEA + SCEB,10.5%,4.5%,Economics,Top 1%,4.14,3.95,1500-1570,33-35,https://apply.yale.edu/portal/applicant,Yes,Test Optional
+6,California Institute of Technology,Caltech,REA,6.4%,3.8%,Physics,Top 1%,4.19,4.0,1530-1580,35-36,https://www.admissions.caltech.edu/apply,Yes,Test Optional
+7,Duke University,Duke,ED,12.9%,5.1%,Economics,Top 2%,4.15,3.94,1500-1570,34-35,https://admissions.duke.edu/apply,Yes,Test Optional
+8,Johns Hopkins University,JHU,ED,19.3%,6.2%,Biomedical Engineering,Top 3%,4.1,3.93,1520-1570,34-35,https://apply.jhu.edu/apply,Yes,Test Optional
+9,Northwestern University,Northwestern,ED/EA,22.6%,7.0%,Journalism,Top 4%,4.1,3.92,1490-1560,33-35,https://admissions.northwestern.edu/apply,Yes,Test Optional
+10,University of Pennsylvania,Penn,ED,14.9%,5.8%,Wharton/Business,Top 2%,4.14,3.94,1500-1570,34-35,https://admissions.upenn.edu/apply,Yes,Test Optional
+11,Brown University,Brown,ED,14.4%,5.2%,Computer Science,Top 3%,4.1,3.94,1490-1570,33-35,https://apply.brown.edu/portal/apply,Yes,Test Optional
+12,Columbia University,Columbia,ED,11.3%,3.9%,Economics,Top 2%,4.15,3.95,1510-1570,34-35,https://undergrad.admissions.columbia.edu/apply,Yes,Test Optional
+13,Cornell University,Cornell,ED/EA,22.6%,8.7%,Engineering,Top 5%,4.07,3.9,1470-1550,33-35,https://apply.commonapp.org,Yes,Test Optional
+14,University of Chicago,UChicago,EA/ED,14.7%,5.4%,Economics,Top 4%,4.1,3.95,1510-1580,34-36,https://collegeadmissions.uchicago.edu/apply,Yes,Test Optional
+15,Rice University,Rice,ED/EA,15.2%,7.7%,Engineering,Top 4%,4.1,3.96,1500-1570,34-36,https://admission.rice.edu/apply,Yes,Test Optional
+16,Dartmouth College,Dartmouth,ED,17.8%,5.3%,Economics,Top 3%,4.1,3.93,1480-1560,33-35,https://apply.dartmouth.edu/portal/apply,Yes,Test Optional
+17,Vanderbilt University,Vanderbilt,ED/EA,24.1%,6.3%,Engineering,Top 5%,4.0,3.9,1480-1570,34-35,https://admissions.vanderbilt.edu/apply,Yes,Test Optional
+18,University of Notre Dame,Notre Dame,REA,13.8%,11.9%,Engineering,Top 6%,4.05,3.92,1440-1550,33-35,https://admissions.nd.edu/apply,Yes,Test Optional
+19,University of California (Berkeley), UC Berkeley,None (RD Only),N/A,10.1%,Computer Science,Top 10%, 4.15,3.93,1330-1530,30-35,https://apply.universityofcalifornia.edu,Yes,Test Blind
+20,University of California (Los Angeles), UCLA,None (RD Only),N/A,8.1%,Engineering,Top 10%,4.32,3.92,1370-1540,31-35,https://apply.universityofcalifornia.edu,Yes,Test Blind
+21,University of California (San Diego), UCSD,None (RD Only),30.2%,18.7%,Computer Science,Top 10%,4.15,3.9,1350-1530,29-34,https://apply.universityofcalifornia.edu,Yes,Test Blind
+22,University of California (Santa Barbara),UCSB,None (RD Only),26.1%,17.3%,Engineering,Top 12%,4.1,3.88,1310-1510,28-33,https://apply.universityofcalifornia.edu,Yes,Test Blind
+23,University of California (Irvine), UC Irvine,None (RD Only),21.1%,18.8%,Computer Science,Top 12%,4.12,3.89,1320-1520,28-33,https://apply.universityofcalifornia.edu,Yes,Test Blind
+24,University of Michigan-Ann Arbor,UMich,EA/ED,20.8%,20.0%,Engineering,Top 8%,4.18,3.92,1450-1560,33-35,https://admissions.umich.edu/apply,Yes,Test Optional
+25,University of Southern California,USC,REA,16.3%,9.4%,Film,Top 7%,4.0,3.92,1450-1560,32-35,https://apply.usc.edu/portal/apply,Yes,Test Optional
+26,Carnegie Mellon University,CMU,ED,17.4%,11.0%,Computer Science,Top 3%,4.16,3.96,1510-1580,34-36,https://admission.enrollment.cmu.edu/apply,Yes,Test Optional
+27,University of California (Davis), UC Davis,None (RD Only),25.2%,23.4%,Animal Science,Top 15%,4.05,3.85,1280-1490,27-32,https://apply.universityofcalifornia.edu,Yes,Test Blind
+28,University of Florida,UFL,EA,26.3%,23.0%,Engineering,Top 10%,4.13,3.9,1400-1530,31-34,https://admissions.ufl.edu/apply,Yes,Test Optional
+29,University of North Carolina (Chapel Hill),UNC Chapel Hill,EA,17.6%,17.0%,Journalism,Top 10%,4.12,3.9,1400-1530,31-34,https://admissions.unc.edu/apply,Yes,Test Optional
+30,New York University,NYU,ED,12.8%,8.0%,Film,Top 7%,4.05,3.91,1470-1560,33-35,https://applynyu.org,Yes,Test Optional
+31,Georgetown University,Georgetown,EA,10.4%,12.0%,International Relations,Top 7%,4.1,3.91,1450-1560,33-35,https://apply.georgetown.edu/apply,Yes,Test Optional
+32,University of Virginia,UVA,EA,19.6%,18.7%,Commerce,Top 9%,4.1,3.91,1450-1550,32-35,https://apply.virginia.edu/apply,Yes,Test Optional
+33,University of Washington,UW,None (Direct),60.0%,52.0%,Computer Science,Top 15%,4.0,3.85,1300-1500,28-33,https://admit.washington.edu/apply,Yes,Test Blind
+34,University of Wisconsin-Madison,WISC,EA,36.0%,49.0%,Economics,Top 18%,4.05,3.87,1400-1530,30-34,https://apply.wisc.edu/apply,Yes,Test Optional
+35,Ohio State University,OSU,EA,24.1%,53.0%,Engineering,Top 20%,4.0,3.85,1400-1530,30-34,https://admissions.osu.edu/apply,Yes,Test Optional
+36,Penn State University,Penn State,EA,22.4%,54.0%,Business,Top 17%,4.05,3.87,1350-1500,28-33,https://admissions.psu.edu/apply,Yes,Test Optional
+37,University of Illinois-Urbana-Champaign,UIUC,EA,20.1%,45.0%",Computer Science,Top 12%,4.15,3.9,1450-1555,32-35,https://apply.illinois.edu/portal/apply,Yes,Test Optional
+38,Georgia Tech,Georgia Tech,EA,17.6%,21.0%,Engineering,Top 10%,4.16,3.93,1450-1560,33-35,https://admission.gatech.edu/apply,Yes,Test Optional
+39,University of Texas at Austin,UT Austin,ApplyTexas,31.7%,31.2%,Business,Top 8%,4.12,3.9,1350-1530,30-34,https://apply.utexas.edu/apply,Yes,Test Optional
+40,University of California (Santa Cruz),UC Santa Cruz,None (RD Only),52.3%,37.2%,Computer Science,Top 20%,4.05,3.82,1250-1480,26-32,https://apply.universityofcalifornia.edu,Yes,Test Blind
+41,University of California (Riverside),UC Riverside,None (RD Only),57.3%,25.4%,Computer Science,Top 25%,4.0,3.8,1180-1440,24-31,https://apply.universityofcalifornia.edu,Yes,Test Blind
+42,Brigham Young University,BYU,EA,31.4%,67.0%,Accounting,Top 15%,4.05,3.87,1350-1500,29-33,https://admissions.byu.edu/apply,Yes,Test Optional
+43,Boston College,BC,ED,26.1%,17.0%,Economics,Top 15%,4.05,3.91,1470-1560,33-35,https://admission.bc.edu/portal/apply,Yes,Test Optional
+44,George Washington University,GWU,ED,22.9%,11.0%,Political Science,Top 15%,4.0,3.85,1400-1540,31-34,https://gw.newseats.com,Yes,Test Optional
+45,Tufts University,Tufts,ED,21.0%,9.4%,International Relations,Top 10%,4.1,3.92,1490-1560,34-35,https://apply.tufts.edu/apply,Yes,Test Optional
+46,University of Maryland,UMD,EA,23.4%,40.7%,Computer Science,Top 15%,4.12,3.9,1400-1530,31-34,https://admissions.umd.edu/apply,Yes,Test Optional
+47,University of Rochester,URochester,ED,26.3%,7.4%,Biology,Top 15%,4.1,3.9,1450-1560,33-35,https://admissions.rochester.edu/apply,Yes,Test Optional
+48,Wake Forest University,WFU,ED,24.8%,8.1%,Economics,Top 10%,4.08,3.92,1480-1560,34-35,https://admissions.wfu.edu/apply,Yes,Test Optional
+49,Lehigh University,LU,ED,25.1%,8.2%,Engineering,Top 10%,4.1,3.92,1450-1550,33-35,https://apply.lehigh.edu/portal/apply,Yes,Test Optional
+50,University of Miami,UMiami,ED,32.3%,11.0%,Marine Biology,Top 15%,4.05,3.88,1400-1530,31-34,https://admissions.miami.edu/apply,Yes,Test Optional
+51,University of Colorado Boulder,CU Boulder,EA,29.0%,58.0%,Engineering,Top 25%,4.05,3.85,1350-1500,28-33,https://admissions.colorado.edu/apply,Yes,Test Optional
+52,Boston University,BU,ED,22.3%,4.0%,Communication,Top 12%,4.05,3.9,1470-1560,33-35,https://apply.bu.edu,Yes,Test Optional
+53,Case Western Reserve University,Case Western,ED,19.3%,6.4%,Engineering,Top 15%,4.1,3.9,1500-1560,34-36,https://case.edu/undergrad/apply,Yes,Test Optional
+54,William & Mary,William & Mary,EA,17.0%,33.0%,Economics,Top 8%,4.12,3.92,1450-1560,33-35,https://admissions.wm.edu/apply,Yes,Test Optional
+55,University of Arizona,Arizona,ApplyYourself,58.5%,80.0%,Optical Sciences,Top 30%,3.9,3.7,1150-1420,24-30,https://admissions.arizona.edu/apply,Yes,Test Optional
+56,University of Utah,Utah,Direct,55.8%,67.0%,Computer Science,Top 30%,3.95,3.8,1200-1430,25-31,https://admissions.utah.edu/apply,Yes,Test Optional
+57,University of Oregon,Oregon,Direct,63.0%,87.0%,Journalism,Top 35%,3.9,3.75,1100-1350,22-29,https://admissions.uoregon.edu/apply,Yes,Test Optional
+58,Purdue University,Purdue,EA,22.5%,60.0%,Engineering,Top 18%,4.1,3.88,1350-1500,28-33,https://admissions.purdue.edu/apply,Yes,Test Optional
+59,University of Connecticut,UConn,EA,38.0%,56.0%,Business,Top 22%,4.05,3.85,1350-1500,28-33,https://admissions.uconn.edu/apply,Yes,Test Optional
+60,Syracuse University,Syracuse,ED,24.5%,11.2%,Public Policy,Top 20%,4.0,3.85,1350-1500,28-33,https://su-afa-portal.force.com/applicants,Yes,Test Optional
+61,University of Pittsburgh,Pitt,Direct,49.0%,49.0%,Medicine,Top 20%,4.08,3.88,1350-1510,30-34,https://admissions.pitt.edu/apply,Yes,Test Optional
+62,Rutgers University,Rutgers,None,58.2%,66.0%,Computer Science,Top 25%,4.0,3.8,1200-1450,26-31,https://admissions.rutgers.edu/apply,Yes,Test Optional
+63,George Mason University,George Mason,Direct,86.0%,89.6%,Computer Science,Top 35%,3.85,3.7,1100-1350,22-30,https://admissions.gmu.edu/apply,Yes,Test Optional
+64,Temple University,Temple,Direct,61.1%,80.0%,Business,Top 30%,3.95,3.8,1250-1450,26-31,https://admissions.temple.edu/apply,Yes,Test Optional
+65,University of Iowa,Iowa,Direct,73.5%,86.0%,Writing,Top 30%,3.95,3.82,1200-1420,24-30,https://admissions.uiowa.edu/apply,Yes,Test Optional
+66,American University,American,ED,22.4%,9.2%,International Studies,Top 25%,4.0,3.85,1350-1500,28-33,https://www.american.edu/undergrad/apply,Yes,Test Optional
+67,Howard University,Howard,ED,20.2%,31.0%,Political Science,Top 25%,3.9,3.82,1200-1400,25-30,https://apply.howard.edu,Yes,Test Optional
+68,City University of New York,CUNY,Direct,70-90%,50-80%,Various,Top 30-50%,3.5,3.3,1000-1280,20-26,https://www.cuny.edu/admissions,Yes,Test Optional
+69,University of Kansas,Kansas,Direct,82.6%,92.0%,Journalism,Top 35%,3.9,3.75,1150-1400,24-30,https://admissions.ku.edu/apply,Yes,Test Optional
+70,Kansas State University,Kansas State,Direct,96.0%,91.0%,Agriculture,Top 40%,3.85,3.7,1050-1300,22-28,https://www.k-state.edu/admissions,Yes,Test Optional
+71,University of Nebraska, Nebraska,Direct,74.3%,78.0%,Journalism,Top 35%,3.95,3.8,1150-1400,24-30,https://admissions.unl.edu/apply,Yes,Test Optional
+72,Iowa State University,Iowa State,Direct,65.0%,90.0%,Engineering,Top 30%,3.9,3.78,1150-1400,24-30,https://www.admissions.iastate.edu,Yes,Test Optional
+73,Auburn University,Auburn,Direct,60.0%,85.0%,Engineering,Top 30%,3.95,3.82,1200-1450,26-31,https://auburn.edu/admissions,Yes,Test Optional
+74,Baylor University,Baylor,ED,28.3%,25.0%,Economics,Top 20%,4.05,3.88,1350-1500,28-33,https://www.baylor.edu/admissions,Yes,Test Optional
+75,University of Tennessee,UT,Direct,58.0%,67.0%,Social Work,Top 30%,3.95,3.8,1250-1450,27-32,https://admissions.utk.edu/apply,Yes,Test Optional
+76,University of Delaware,UD,Direct,50.0%,72.0%,Business,Top 25%,4.0,3.85,1250-1470,27-32,https://www.udel.edu/admissions,Yes,Test Optional
+77,University of Kentucky, UKY,Direct,68.0%,95.0%,Business,Top 35%,3.9,3.75,1150-1400,24-30,https://www.uky.edu/admissions,Yes,Test Optional
+78,University of Oklahoma,OU,Direct,61.0%,70.0%,Energy,Top 30%,3.95,3.82,1200-1450,26-32,https://www.ou.edu/admissions,Yes,Test Optional
+79,Clemson University,Clemson,Direct,40.2%,62.0%,Engineering,Top 20%,4.1,3.88,1400-1520,30-34,https://www.clemson.edu/admissions,Yes,Test Optional
+80,Louisiana State University,LSU,Direct,72.0%,76.0%,Business,Top 35%,3.9,3.75,1150-1380,24-30,https://www.lsu.edu/admissions,Yes,Test Optional
+81,University of Alabama,UA,Direct,53.0%,79.0%,Culinary,Top 30%,3.9,3.78,1150-1400,24-30,https://www.ua.edu/admissions,Yes,Test Optional
+82,Marquette University,Marquette,ED,24.8%,8.3%,Nursing,Top 25%,4.0,3.88,1350-1500,28-33,https://www.marquette.edu/admissions,Apply,Yes,Test Optional
+83,University of Arkansas,UARK,Direct,78.0%,84.0%,Engineering,Top 40%,3.85,3.72,1100-1350,23-29,https://admissions.uark.edu/apply,Yes,Test Optional
+84,Mississippi State University,Mississippi State,Direct,63.0%,90.0%,Engineering,Top 40%,3.8,3.7,1050-1300,22-28,https://www.msstate.edu/admissions,Yes,Test Optional
+85,Oklahoma State University,Oklahoma State,Direct,69.2%,70.0%,Agriculture,Top 35%,3.85,3.75,1100-1350,23-29,https://admissions.okstate.edu,Yes,Test Optional
+86,University of South Carolina,USC Carolina,Direct,64.0%,62.0%,International Studies,Top 30%,3.95,3.82,1200-1450,26-32,https://www.sc.edu/admissions,Yes,Test Optional
+87,Eastern Virginia Medical School,EVMS,Direct,47.0%,25.0%,Medicine,Top 25%,4.0,3.88,1250-1450,28-33,https://www.evms.edu/admissions,Yes,Test Optional
+88,University of Rhode Island,URI,Direct,78.2%,81.0%,Pharmacy,Top 40%,3.85,3.72,1050-1300,22-28,https://web.uri.edu/admission/application-status/?gad_source=1&gad_campaignid=23502659738&gbraid=0AAAABCgv8ytq3eNNyFFOa8x7oK4M4B2SC&gclid=Cj0KCQjwzqXQBhD2ARIsAKrIeU-B6PVj8g7i8kqoEmLo0wZPnA43HwGlkVShYgR8oWHNBHii8P-E4ggaAi_iEALw_wcB,Yes,Test Optional
+89,University of New Hampshire,UNH,Direct,81.5%,86.0%,Business,Top 40%,3.85,3.72,1050-1300,22-28,https://www.unh.edu/admissions,Yes,Test Optional
+90,Washington State University,WSU,Direct,82.0%,88.0%,Agriculture,Top 40%,3.8,3.7,1050-1300,22-28,https://admissions.wsu.edu/apply,Yes,Test Optional
+91,University of Vermont,UVM,Direct,67.7%,75.0%,Environmental Science,Top 35%,3.9,3.78,1150-1380,24-30,https://www.uvm.edu/admissions,Yes,Test Optional
+92,North Dakota State University,NDSU,Direct,83.0%,96.0%,Agriculture,Top 40%,3.85,3.7,1050-1280,22-28,https://www.ndsu.edu/admissions,Yes,Test Optional
+93,Ohio University,Ohio,Direct,89.0%,83.0%,Journalism,Top 45%,3.8,3.65,1000-1250,21-27,https://www.ohio.edu/admissions,Yes,Test Optional
+94,University of Missouri,Missouri,Direct,70.8%,82.0%,Journalism,Top 30%,3.95,3.82,1200-1450,26-32,https://admissions.missouri.edu,Yes,Test Optional
+95,University of New Mexico,UNM,Direct,70.0%,74.0%,Hispanic Studies,Top 35%,3.9,3.75,1100-1350,23-29,https://www.unm.edu/admissions,Yes,Test Optional
+96,Indiana University,Bloomington,EA,65.8%,80.0%,Business,Top 25%,4.0,3.85,1250-1470,27-32,https://admissions.iu.edu,Yes,Test Optional
+97,Colorado State University,CSU,Direct,77.1%,91.0%,Veterinary,Top 35%,3.9,3.75,1150-1380,24-30,https://admissions.colostate.edu,Yes,Test Optional
+98,University of Maine,UMaine,Direct,86.6%,91.0%,Marine Biology,Top 45%,3.8,3.7,1000-1250,21-27,https://www.umaine.edu/admissions,Yes,Test Optional
+99,Montana State University,Montana State,Direct,85.0%,95.0%,Engineering,Top 45%,3.8,3.65,1000-1250,21-27,https://www.montana.edu/admissions,Yes,Test Optional
+100,Stony Brook University,Stony Brook,Direct,57.0%,49.0%,Engineering,Top 30%,3.95,3.8,1250-1450,27-32,https://www.stonybrook.edu/admissions,Yes,Test Optional

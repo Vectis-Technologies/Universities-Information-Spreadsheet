@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Universities Information Database </title>
+<link rel="icon" href="Universities Information.png" type="image/png">
+</div>
+<style>
+body{background:#000;color:#fff;font-family:Georgia, 'Times New Roman', Times, serif;padding:20px}
+table{width:100%;border-collapse:collapse;background:#111;border:2px solid #fff}
+th{background:#fff;color:#000;padding:12px;font-weight:bold}
+td{padding:10px;border-bottom:2px solid #ffffff}
+tr:hover{background:#b4b4b44f;color:#ffffff}
+input{background:#222;border:1px solid #fff;color:#fff;padding:8px}
+button{background:#fff;color:#000;border:none;padding:8px 16px;cursor:pointer}
+</style>
+</head>
+<body>
+<h1 style="color:#fff;text-align:center;font-size:60px;margin-bottom:20px"> Universities Information Database </h1>
+
+<div style="display:grid;grid-template-columns:1fr auto 1fr;align-items:center;margin-bottom:20px;">
+    <div style="justify-self:start;">
+        <input id="search" placeholder="Search to filter" onkeyup="filter()" style="background:#222;border:1px solid #fff;color:#fff;padding:8px;">
+        <button onclick="location.reload()" style="background:#fff;color:#000;border:none;padding:8px 16px;cursor:pointer;">Reload</button>
+    </div>
+    
+    <a href="index.html" style="background:#fff;color:#ff0000;padding:8px 16px;text-decoration:underline;border-radius:10px;font-weight:bold;">Back to Home</a>
+    
+    <div style="justify-self:end;">
+        <button onclick="downloadCSV()" style="background:#fff;color:#000;border:none;padding:8px 16px;cursor:pointer;border:1px solid #ffffff;">Download</button>
+    </div>
+</div>
+
+<table id="table">
+<thead><tr>
+<th>Rank</th><th>School</th><th>Nickname</th><th>Early Admission Plan(s)</th><th>Early Acceptance Rate</th><th>Regular Acceptance Rate</th><th>Best Known Major</th><th>Class Rank</th><th>Average GPA</th><th>Average SAT</th><th>Admissions Portal</th>
+</tr></thead>
+<tbody id="data"><tr><td colspan=9>Loading...</td></tr></tbody>
+</table>
+
+<script>
+fetch('uni_data.csv')
+.then(r=>r.text())
+.then(t=>{
+const rows=t.split('\n').slice(1);
+document.getElementById('data').innerHTML=rows.map(r=>{
+if(!r)return'';
+const c=r.split(',');
+if(c[0]=='')return'';
+return`<tr>
+<td>${c[0]}</td>
+<td>${c[1]}</td>
+<td>${c[2]}</td>
+<td>${c[3]}</td>
+<td>${c[4]}</td>
+<td>${c[5]}</td>
+<td>${c[6]}</td>
+<td>${c[7]}</td>
+<td>${c[8]}/${c[9]}</td>
+<td>${c[10]}</td>
+<td><a href="${c[12]}" target="_blank" style="color:#0ff">${c[12].split('/')[2]}</a></td>
+</tr>`;
+}).join('');
+});
+
+function filter(){
+const s=document.getElementById('search').value.toLowerCase();
+const rows=document.querySelectorAll('#data tr');
+rows.forEach(r=>{
+r.style.display=r.textContent.toLowerCase().includes(s)?'':'none';
+});
+}
+</script>
+</body>
+</html>
