@@ -69,6 +69,14 @@ rows.forEach(r=>{
 r.style.display=r.textContent.toLowerCase().includes(s)?'':'none';
 });
 }
+function downloadCSV() {
+  const a = document.createElement('a');
+  a.href = 'uni_data.csv';
+  a.download = 'uni_data.csv';
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+}
 </script>
 </body>
 </html>
